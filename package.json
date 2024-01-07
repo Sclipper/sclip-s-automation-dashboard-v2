@@ -11,7 +11,20 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.0.4"
+    "next": "14.0.4",
+    "@iconscout/react-unicons": "^1.1.6",
+    "@next/font": "^13.3.0",
+    "@types/node": "20.2.3",
+    "@types/react": "18.2.7",
+    "@types/react-dom": "18.2.4",
+    "dotenv": "^16.0.3",
+    "eslint": "8.41.0",
+    "eslint-config-next": "13.4.3",
+    "framer-motion": "^6",
+    "react-dropzone": "^14.2.3",
+    "react-icons": "^4.11.0",
+    "recharts": "^2.10.3",
+    "typescript": "5.0.4"
   },
   "devDependencies": {
     "typescript": "^5",
@@ -19,6 +32,20 @@
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",
-    "eslint-config-next": "14.0.4"
+    "eslint-config-next": "14.0.4",
+    "@types/jest": "^29.2.2",
+    "@types/mocha": "^10.0.0",
+    "@typescript-eslint/eslint-plugin": "^5.56.0",
+    "@typescript-eslint/parser": "^5.56.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.28.0",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "prettier": "^2.8.7",
+    "ts-node": "^10.9.1"
   }
 }
